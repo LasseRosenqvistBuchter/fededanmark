@@ -1,0 +1,43 @@
+h1{
+    color: red;
+    text-align: center;
+    border:4px solid black;
+}
+
+.billede{
+    width: 25vw;
+    border:4px solid black;
+    height: 30vh;
+    border-radius: 10px;
+}
+.kort{
+    display: flex;
+    width: 90vw;
+    margin: 1rem auto;
+}
+
+p{
+    margin: 0 2rem;
+    width: 65vw;
+}
+
+.p-aarhus
+{
+    color: green;
+}
+.p-odense{
+    color: blue;
+}
+body{
+    background-color: beige;
+}
+.p-kalundborg{
+color: brown;
+
+
+}
+.p-københaven{
+color: indigo
+}
+
+
