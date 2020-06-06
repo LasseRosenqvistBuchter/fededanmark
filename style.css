@@ -40,4 +40,15 @@ color: brown;
 color: indigo
 }
 
+@media screen and (max-width: 800px){
+    .kort{
+        display: block;
+    }
+    .billede{
+        width: 80vw;
+        margin: auto;
+    }
+
+}
+
 
